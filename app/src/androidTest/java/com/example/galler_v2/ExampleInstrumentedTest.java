@@ -1,4 +1,4 @@
-package com.sir.gallery;
+package com.example.galler_v2;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.sir.gallery", appContext.getPackageName());
+        assertEquals("com.example.galler_v2", appContext.getPackageName());
     }
 }

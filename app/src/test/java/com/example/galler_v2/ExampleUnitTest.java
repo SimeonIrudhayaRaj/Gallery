@@ -1,4 +1,4 @@
-package com.sir.gallery;
+package com.example.galler_v2;
 
 import org.junit.Test;
 
